@@ -1,0 +1,51 @@
+body{
+    font-size:40px;
+    text-align: center;
+    background-color: midnightblue;
+}
+ul{text-align: center;}
+li{
+    display: inline-block;
+    padding-top: 20px;
+    padding-right: 20px;
+}
+nav>ul>li>a{
+    color:maroon;
+    
+}
+nav>ul>li>a:hover{
+    color:palevioletred;
+}
+nav{
+    background-color: peru;
+}
+table{
+    padding:20px;
+    border:solid 1px indianred;
+    border-collapse :collapse;
+}
+tr{
+    padding:20px;
+    border: 1px solid indianred;
+    border-collapse: collapse;
+}
+td,th{
+    padding: 20px;
+    border: indigo;
+    border-collapse: collapse;
+}
+img{
+    float:right;
+    position: relative;
+    top: 30px;
+    height: 600px;
+    width: 600px;
+    padding:0px;
+}
+#lov{
+    float: left;
+}
+table{
+    text-align: center;
+    background-color: lightcoral;
+}

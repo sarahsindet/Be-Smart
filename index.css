@@ -1,0 +1,55 @@
+h1{color:blue;
+    padding:15px;
+    border:1px solid black;
+    text-align: center; 
+    font-family: 'Lucida Sans';
+    background-color: lightskyblue;
+    border-collapse: collapse;  
+          
+}
+nav{
+    position:relative;
+    display:flex;
+    font-size: x-large;
+    background-color:peru;
+}
+ul{
+    text-align: center;
+}
+
+ul>li{
+    display:inline-block;
+    justify-content: space-evenly;
+    text-align: center;
+    color:red;
+}
+
+
+img{
+    float: right;
+     position: relative;
+}
+p3{
+    color:red;
+    text-align:center;
+    font-size: xxx-large;
+    font-display: flex;
+    font-weight: 200;
+}
+li{
+    display:inline-block;
+    padding-top: 10px;
+    padding-right:20px;
+}
+ul{
+    text-align: center;
+}
+nav > ul> li> a:hover{
+color:lawngreen;
+}
+h2,p{
+    font-size: 30px;
+}
+body{
+    background-color: silver;
+}
